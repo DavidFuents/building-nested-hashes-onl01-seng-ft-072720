@@ -6,6 +6,8 @@ def first_challenge
       :hero => {},
       :hero_friends => []
     }, 
-    :capulet => {}
+    :capulet => {
+      
+    }
    }
 end
